@@ -1,5 +1,5 @@
 ## Description
-This is advanced modern news application in reactjs class based components. We are showing diffrent category (business, entertainment, general, health, science, sports, technology). Note: you can't mix this param with the sources) news for different country. We use infinite scroll, top loding bar.
+This is advanced modern news application in reactjs class based components. We are showing different category (business, entertainment, general, health, science, sports, technology) news for different country. We use infinite scroll, top loding bar.
 
 ## Requirements
 
@@ -10,12 +10,12 @@ https://nodejs.org/en/download/
 https://code.visualstudio.com/download
 
 ### Install Extension In VS Code
-Thunder Client
-ES7 React/Redux/GraphQL/React-Native Snippets
-Bracket Pair Colorizer
-Auto Rename Tag
-Live Server
-Prettier - Code formatter
+1. Thunder Client 
+2. ES7 React/Redux/GraphQL/React-Native Snippets 
+3. Bracket Pair Colorizer 
+4. Auto Rename Tag 
+5. Live Server 
+6. Prettier - Code formatter 
 
 ### Add Chrome Extension
 React Developer Tools
