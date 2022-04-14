@@ -1,6 +1,19 @@
 ## Description
 This is advanced modern news application in reactjs class based components. We are showing different category (business, entertainment, general, health, science, sports, technology) news for different country. We use infinite scroll, top loding bar.
 
+## Demo Screenshots
+
+<img width="1440" alt="Screen Shot 2022-04-14 at 1 41 55 PM" src="https://user-images.githubusercontent.com/14269798/163343756-6de74525-9762-44ff-b122-a6374a41e488.png">
+
+<img width="1440" alt="Screen Shot 2022-04-14 at 1 42 15 PM" src="https://user-images.githubusercontent.com/14269798/163343804-e4f0108f-95ae-4967-8b54-6765f30f5905.png">
+
+<img width="1440" alt="Screen Shot 2022-04-14 at 1 42 45 PM" src="https://user-images.githubusercontent.com/14269798/163343816-2add24f9-e29b-403d-990f-7cb137f777bb.png">
+
+<img width="1440" alt="Screen Shot 2022-04-14 at 1 43 02 PM" src="https://user-images.githubusercontent.com/14269798/163343829-99df3ce7-104a-494a-b8e6-27551d3c9b95.png">
+
+<img width="1440" alt="Screen Shot 2022-04-14 at 1 44 48 PM" src="https://user-images.githubusercontent.com/14269798/163343841-9211d368-c35b-4f42-afed-bd89c5c048f8.png">
+
+
 ## Requirements
 
 ### Install Nodejs
